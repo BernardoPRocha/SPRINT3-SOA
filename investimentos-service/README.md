@@ -2,6 +2,14 @@
 
 Projeto da Sprint 3 - Arquitetura Orientada a Serviços e Web Services.
 
+## 📌 Integrantes do Grupo
+1. Bernardo Pinto Rocha - RM99209  
+2. Gabriel Diegues - RM550788  
+3. Luiza Cristina - RM99367  
+4. Pedro Palladino - RM551180  
+5. Renato Izumi - RM99242
+
+   
 ## 🚀 Funcionalidades
 - Cadastro e listagem de clientes.
 - Validações de entrada.

@@ -34,6 +34,10 @@ Acesse:
 - Swagger: `http://localhost:8080/swagger-ui.html`
 
 ## 📌 Exemplos
+
+##Login H2-Console
+<img width="511" height="367" alt="image" src="https://github.com/user-attachments/assets/0d702fc6-ad6c-4262-aa20-45a52408d800" />
+
 ### Criar Cliente
 ```http
 POST /clientes

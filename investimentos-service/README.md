@@ -30,7 +30,7 @@ mvn spring-boot:run
 ```
 
 Acesse:
-- API: `http://localhost:8080/clientes`
+- API: `http://localhost:8080/h2-console/login.jsp`
 - Swagger: `http://localhost:8080/swagger-ui.html`
 
 ## 📌 Exemplos

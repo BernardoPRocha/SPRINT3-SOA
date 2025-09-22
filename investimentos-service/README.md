@@ -29,6 +29,10 @@ Projeto da Sprint 3 - Arquitetura Orientada a Serviços e Web Services.
 mvn spring-boot:run
 ```
 
+## APERTE NA SETA VERDE 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7a6ed84-6b02-404a-b819-033ede8d91ad" />
+
 Acesse:
 - API: `http://localhost:8080/h2-console/login.jsp`
 - Swagger: `http://localhost:8080/swagger-ui.html`

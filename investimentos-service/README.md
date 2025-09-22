@@ -35,24 +35,24 @@ Acesse:
 
 ## 📌 Exemplos
 
-##Login H2-Console
+## Login H2-Console
+<img width="511" height="367" alt="image" src="https://github.com/user-attachments/assets/0d702fc6-ad6c-4262-aa20-45a52408d800" /> 
 
-<img width="511" height="367" alt="image" src="https://github.com/user-attachments/assets/0d702fc6-ad6c-4262-aa20-45a52408d800" />
+<img width="911" height="378" alt="image" src="https://github.com/user-attachments/assets/badfc29c-1adf-4d89-bc41-f90d1fcc4737" />
 
-### Criar Cliente
-```http
-POST /clientes
-Content-Type: application/json
+## POST 
+<img width="1419" height="938" alt="image" src="https://github.com/user-attachments/assets/7508fd2a-0dc8-49c8-8ddc-b031f7c18e56" />
 
-{
-  "nome": "Maria",
-  "perfilInvestidor": "CONSERVADOR",
-  "liquidez": 10000,
-  "objetivo": "Reserva de emergência"
-}
-```
+## GET
+<img width="1448" height="802" alt="image" src="https://github.com/user-attachments/assets/e1ad1758-3c26-47ab-ad93-a5c27a4fc954" />
 
-### Listar Clientes
-```http
-GET /clientes
-```
+## PUT
+<img width="1417" height="967" alt="image" src="https://github.com/user-attachments/assets/ed9def4f-b74c-47d8-b0a4-e3df22e930a0" />
+
+<img width="1434" height="812" alt="image" src="https://github.com/user-attachments/assets/f8703419-bddd-4af8-9530-8508b65150dc" />
+
+## DELETE
+<img width="1418" height="761" alt="image" src="https://github.com/user-attachments/assets/7c03c2c2-e6eb-4624-a182-436129ed3333" />
+
+<img width="910" height="370" alt="image" src="https://github.com/user-attachments/assets/f01036de-fb5a-4c26-8b95-86bdca3a254f" />
+
